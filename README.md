@@ -1,7 +1,7 @@
-# Lista-de-afazeres
-Este repositório é destinado a criar uma lista de afazeres
+# To-Do List
+This repository is destinated to create a to-do list
 
-## Features desejadas:
-- [ ] Criar uma tarefa com nome e ao expandir mostra descrição
-- [ ] Criar temas, como escola, videos para assistir, etc
+## Desired features:
+- [ ] Create a task with a name and when expanded, shows a description
+- [ ] Create themes, such as school, videos to watch, etc
 - [ ] Local Storage
